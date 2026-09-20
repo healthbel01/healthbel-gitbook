@@ -32,6 +32,7 @@
 ## MENTAL WELLNESS ARTICLES
 
 * [Simple Daily Habits for a Calmer and More Balanced Routine](mental-wellness-articles/daily-habits-calmer-routine.md)
+  * [Loving-Kindness Meditation (Metta): A Step-by-Step Guide to Cultivating Compassion](mental-wellness-articles/loving-kindness-meditation-guide.md)
 
 ## HEALTHY LIFESTYLE ARTICLES
 
