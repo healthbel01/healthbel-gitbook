@@ -12,6 +12,7 @@
 * [Simple Evening Habits for Better Sleep and Relaxation](health-articles/sleep-recovery.md)
 * [Simple Daily Habits to Support Better Digestion](health-articles/digestive-health.md)
 
+* [The Benefits of Walking After Dinner: What Happens to Your Body](health-articles/benefits-of-walking-after-dinner.md)
 ## NUTRITION ARTICLES
 
 * [Simple Ways to Build a More Colorful and Balanced Plate](nutrition-articles/balanced-meals.md)
