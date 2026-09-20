@@ -1,4 +1,7 @@
 ---
+description: >-
+  Master warrior 2 pose alignment with step-by-step form cues, key benefits,
+  common mistakes to avoid, and safe modifications for every body.
 cover: ../.gitbook/assets/warrior-2-pose-alignment.jpg
 coverY: 0
 layout:
@@ -17,11 +20,18 @@ layout:
     visible: true
   pagination:
     visible: true
-description: "Master warrior 2 pose alignment with step-by-step form cues, key benefits, common mistakes to avoid, and safe modifications for every body."
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 tags:
-  - "warrior-2-pose-alignment"
-  - "yoga-poses"
-  - "yoga"
+  - warrior-2-pose-alignment
+  - yoga-poses
+  - yoga
 ---
 
 # Warrior 2 Pose Alignment: Step-by-Step Form, Benefits, and Modifications
@@ -65,11 +75,11 @@ Stack your spine vertically over your pelvis. Imagine equal energy radiating fro
 
 Regularly practicing Virabhadrasana II supports functional strength, mobility, and posture. Key benefits include:
 
-- **Lower body strength:** Holding a deep bend in the front leg strengthens the quadriceps, hamstrings, and gluteal muscles, while active back-leg engagement builds stamina.
-- **Hip and groin flexibility:** The wide stance gently opens the adductors (inner thighs) and hip flexors over time.
-- **Core stability:** Maintaining an upright spine requires support from the abdominal muscles and back extensors.
-- **Shoulder endurance:** Holding the arms parallel to the ground builds isometric strength in the deltoids and upper back muscles.
-- **Balance and body awareness:** Standing firmly on two feet in an asymmetrical stance improves proprioception and overall balance.
+* **Lower body strength:** Holding a deep bend in the front leg strengthens the quadriceps, hamstrings, and gluteal muscles, while active back-leg engagement builds stamina.
+* **Hip and groin flexibility:** The wide stance gently opens the adductors (inner thighs) and hip flexors over time.
+* **Core stability:** Maintaining an upright spine requires support from the abdominal muscles and back extensors.
+* **Shoulder endurance:** Holding the arms parallel to the ground builds isometric strength in the deltoids and upper back muscles.
+* **Balance and body awareness:** Standing firmly on two feet in an asymmetrical stance improves proprioception and overall balance.
 
 ## Common Mistakes and Easy Corrections
 
@@ -81,17 +91,17 @@ Common Alignment Habit Why It Happens How to Fix It Front knee caving inward Tig
 
 Yoga postures should adapt to your body, not the other way around. Refining your warrior 2 pose alignment with smart modifications helps you work around tightness, fatigue, or joint concerns safely:
 
-- **For knee discomfort:** Reduce the depth of the front knee bend. You do not need to bring the front thigh parallel to the floor to experience the benefits of the posture.
-- **For balance challenges:** Practice near a wall, resting your back hand lightly against the surface for support.
-- **For shoulder fatigue:** Keep hands at heart center in prayer position or rest hands on hips while maintaining the lower-body foundation.
-- **For neck sensitivity:** Instead of gazing over your front hand, keep your gaze neutral, looking straight ahead toward the side wall.
+* **For knee discomfort:** Reduce the depth of the front knee bend. You do not need to bring the front thigh parallel to the floor to experience the benefits of the posture.
+* **For balance challenges:** Practice near a wall, resting your back hand lightly against the surface for support.
+* **For shoulder fatigue:** Keep hands at heart center in prayer position or rest hands on hips while maintaining the lower-body foundation.
+* **For neck sensitivity:** Instead of gazing over your front hand, keep your gaze neutral, looking straight ahead toward the side wall.
 
 ## When to Seek Professional Guidance
 
 While yoga postures are generally safe for healthy individuals, modifying or avoiding certain movements may be necessary depending on your health history. Speak with a healthcare provider, physical therapist, or qualified movement specialist before practicing Virabhadrasana II if you have ongoing medical concerns.
 
-Get personalized guidance if you have recent or chronic knee injuries, hip replacement surgery, severe lower back conditions, unmanaged high blood pressure, or active shoulder pain. If you experience sharp, localized pain or dizziness while holding the pose, release the posture gently and rest.[HealthBel - Health, Fitness & Wellness Tips Trusted health, fitness, nutrition, yoga, beauty, and wellness tips for a healthy lifestyle. healthbel.com](https://healthbel.com/)
+Get personalized guidance if you have recent or chronic knee injuries, hip replacement surgery, severe lower back conditions, unmanaged high blood pressure, or active shoulder pain. If you experience sharp, localized pain or dizziness while holding the pose, release the posture gently and rest.
 
----
+[HealthBel - Health, Fitness & Wellness Tips Trusted health, fitness, nutrition, yoga, beauty, and wellness tips for a healthy lifestyle. healthbel.com](https://healthbel.com/)
 
-**Original HealthBel article:** [Warrior 2 Pose Alignment: Step-by-Step Form, Benefits, and Modifications](https://script.google.com/macros/s/AKfycbxX9rmaHU16tO0wqPtEKKeiKAQqt4MdzCiPt6Wx-DrJEY1OouuDGTX34TkO3Gnn2WIL/exec?slug=warrior-2-pose-alignment)
+***
