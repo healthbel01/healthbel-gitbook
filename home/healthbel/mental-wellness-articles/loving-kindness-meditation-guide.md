@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/loving-kindness-meditation-guide.jpg
 coverY: 0
 layout:
   width: wide
