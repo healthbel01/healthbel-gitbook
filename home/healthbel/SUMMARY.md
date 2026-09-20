@@ -26,6 +26,7 @@
 ## YOGA ARTICLES
 
 * [Simple Ways to Make Yoga Part of Your Daily Routine](yoga-articles/yoga-daily-routine.md)
+  * [Power Yoga for Weight Management and Lean Muscle Development](yoga-articles/power-yoga-for-weight-management-and-muscle.md)
 
 ## MENTAL WELLNESS ARTICLES
 
