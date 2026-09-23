@@ -13,6 +13,7 @@
 * [Simple Daily Habits to Support Better Digestion](health-articles/digestive-health.md)
 
 * [The Benefits of Walking After Dinner: What Happens to Your Body](health-articles/benefits-of-walking-after-dinner.md)
+* [How to Steam Face at Home: Safe Practices, Temperature & Botanical Guide](health-articles/how-to-steam-face-at-home.md)
 ## NUTRITION ARTICLES
 
 * [Simple Ways to Build a More Colorful and Balanced Plate](nutrition-articles/balanced-meals.md)
